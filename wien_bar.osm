@@ -1,0 +1,3751 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-10-09T15:07:54Z"/>
+
+  <node id="84540706" lat="48.2003245" lon="16.3929027">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Landstraßer Hauptstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ströck Feierabend"/>
+    <tag k="opening_hours" v="Mo-Fr 16:00-24:00; Sa 07:00-24:00; Su 07:00-18:00"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="http://www.stroeck-feierabend.at/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="146328398" lat="48.2298213" lon="16.3563982">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Liechtensteinstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Whiskybar; vormals The Barn"/>
+    <tag k="name" v="The Blue Label Bar"/>
+    <tag k="opening_hours" v="22-"/>
+    <tag k="operator" v="Don Enrico"/>
+  </node>
+  <node id="309293364" lat="48.1966120" lon="16.3651253">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Margaretenstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Schikaneder"/>
+    <tag k="opening_hours" v="Mo-Sa 18:00-04:00, Su 18:00-01:00"/>
+    <tag k="smoking" v="separated"/>
+    <tag k="source" v="foot survey"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://www.schikaneder.at/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="when it is full the bathroom is hard to reach though..."/>
+  </node>
+  <node id="315846062" lat="48.2000494" lon="16.3653354">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Wein &amp; Co"/>
+    <tag k="shop" v="vinothek"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="333371991" lat="48.2229914" lon="16.3051414">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Matteottiplatz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Grünes Licht"/>
+    <tag k="website" v="https://www.facebook.com/1160Sandleiten/"/>
+  </node>
+  <node id="338473236" lat="48.2184281" lon="16.3804725">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="33A"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Taborstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Hammond"/>
+    <tag k="opening_hours" v="Mo-Th 17:00-03:00; Fr 17:00-04:00; Sa 19:00-04:00; Su 19:00-02:00"/>
+    <tag k="website" v="http://www.hammondbar.at/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="344669297" lat="48.2070289" lon="16.3883951">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Marxergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-10"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Vinz"/>
+    <tag k="note" v="Nam Nam Dabba im gleichen Lokal, Mo-Fr 11:30-13:30"/>
+    <tag k="opening_hours" v="Mo-Fr 17:00-22:00"/>
+    <tag k="outdoor_seating" v="parklet"/>
+  </node>
+  <node id="347442567" lat="48.1696942" lon="16.4217665">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:postcode" v="1110"/>
+    <tag k="addr:street" v="Simmeringer Hauptstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:ssid" v="Frog"/>
+    <tag k="name" v="Café Frog"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-00:00 &amp; Fr-Sa 00:00-02:00"/>
+    <tag k="opening_hours:covid19" v="same"/>
+    <tag k="opening_hours:url" v="https://www.cafefrog.at"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+43 660 1111719"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="website" v="https://www.cafefrog.at"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="352270388" lat="48.1730050" lon="16.4173137">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Deluxe Coffee Bar"/>
+    <tag k="opening_hours" v="Mo-Th 08:00-23:00; Fr,Sa 08:00-01:00, Su 09:00-23:00"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="370674267" lat="48.2180701" lon="16.3425032">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Stadtbahnbogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="club" v="culture"/>
+    <tag k="name" v="Einbaumöbel"/>
+    <tag k="website" v="1bm.at"/>
+  </node>
+  <node id="370676470" lat="48.2182180" lon="16.3425625">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Stadtbahnbogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Venster99"/>
+    <tag k="website" v="http://venster99.com/"/>
+  </node>
+  <node id="375998848" lat="48.2196865" lon="16.3424914">
+    <tag k="amenity" v="bar"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Bar Feeling"/>
+  </node>
+  <node id="409168052" lat="48.2040722" lon="16.3531696">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ginsberg"/>
+    <tag k="opening_hours" v="Mo-Sa 18:00-04:00, Su 18:00-02:00"/>
+  </node>
+  <node id="409168053" lat="48.1963212" lon="16.3461466">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Mariahilfer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Gönnerbar"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="409188535" lat="48.2003290" lon="16.3601742">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="9/1a"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Theobaldgasse"/>
+    <tag k="addr:unit" v="1A"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.monami.at"/>
+    <tag k="email" v="office@monami.at"/>
+    <tag k="name" v="Mon Ami"/>
+    <tag k="opening_hours" v="Mo-Su 18:00-02:00"/>
+    <tag k="phone" v="+43 6507434466"/>
+  </node>
+  <node id="412345268" lat="48.1977287" lon="16.3749505">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Schwarzenbergplatz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="office@schwarzberg.wien"/>
+    <tag k="contact:website" v="http://schwarzberg.wien"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Schwarzberg"/>
+    <tag k="old_name" v="Ost Klub, Zugabe, Papas Tapas, Atrium"/>
+    <tag k="opening_hours" v="Mo-Sa 16:00-02:00; Su 16:00-00:00"/>
+    <tag k="operator" v="Matthias Angerer"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="415409740" lat="48.2069555" lon="16.3460762">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Lerchenfelder Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Fräuleins"/>
+    <tag k="opening_hours" v="Tu-Sa 16:00-02:00"/>
+  </node>
+  <node id="442981719" lat="48.2019147" lon="16.3473668">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Westbahnstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Plus43"/>
+    <tag k="opening_hours" v="Tu-Th 20:00-02:00,20:00-03:00"/>
+  </node>
+  <node id="450170234" lat="48.2169355" lon="16.3852689">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Zirkusgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="New Bar"/>
+    <tag k="opening_hours" v="Mo-Su 17:00-01:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="+4369915231349"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="website" v="http://facebook.com/newbarwien/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="457232746" lat="48.1971153" lon="16.3652315">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Aruba"/>
+  </node>
+  <node id="566660740" lat="48.2120210" lon="16.3723092">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Sterngasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Funky Monkey"/>
+    <tag k="opening_hours" v="Th 20:00-02:00;Fr-Sa 20:00-04:00"/>
+    <tag k="website" v="http://www.funkymonkey.at"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="566660785" lat="48.2123001" lon="16.3732201">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Marc-Aurel-Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Re:Kiss"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="588084968" lat="48.2094217" lon="16.3388866">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="26-27"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Stadtbahnbogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="loop@loop.co.at"/>
+    <tag k="name" v="Loop"/>
+    <tag k="phone" v="+43 1 402 41 95"/>
+    <tag k="website" v="http://www.loop.co.at"/>
+  </node>
+  <node id="636106660" lat="48.2122441" lon="16.3438849">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Albertgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="albertgasse39"/>
+    <tag k="phone" v="+43 1 4020339"/>
+    <tag k="website" v="http://www.albertgasse39.at/"/>
+  </node>
+  <node id="659823599" lat="48.2043752" lon="16.3477659">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Burggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cafe Zipp"/>
+    <tag k="opening_hours" v="Mo-Fr 18:00-04:00; Sa-Su 20:00-04:00"/>
+    <tag k="phone" v="+43 1 9249886"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="website" v="http://www.cafezipp.at/"/>
+  </node>
+  <node id="701320972" lat="48.2042569" lon="16.3563909">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Breite Gasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:phone" v="+43-1-526 3366"/>
+    <tag k="contact:website" v="www.hauptsachefranz.at"/>
+    <tag k="name" v="Hauptsache Franz"/>
+    <tag k="opening_hours" v="Tu,We 09:00-18:00; Th,Fr 09:00-20:00; Sa 09:00-14:00"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="732931856" lat="48.2330547" lon="16.4256276">
+    <tag k="amenity" v="bar"/>
+  </node>
+  <node id="746332341" lat="48.2257362" lon="16.3305137">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ur-knall"/>
+  </node>
+  <node id="766879987" lat="48.2104329" lon="16.3461221">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Skubibar"/>
+  </node>
+  <node id="766879999" lat="48.2100260" lon="16.3447124">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Brauchbar"/>
+  </node>
+  <node id="766880008" lat="48.2109596" lon="16.3485611">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Gerard-Tanzbar"/>
+    <tag k="note" v="Partylocation"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="766880019" lat="48.2122667" lon="16.3469687">
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="post@salims.at"/>
+    <tag k="name" v="Salim's"/>
+    <tag k="opening_hours" v="Mo-Su 16:00-02:00"/>
+    <tag k="phone" v="+436644627185"/>
+    <tag k="website" v="http://www.salims.at/8/ImLokal/main.html"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="767358619" lat="48.2051430" lon="16.3526468">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Neustiftgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/erich1070"/>
+    <tag k="contact:website" v="http://erichwien.at"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Erich"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-02:00"/>
+    <tag k="opening_hours:covid19" v="closed"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="WC barrierefrei erreichbar, aber sehr eng"/>
+  </node>
+  <node id="768480198" lat="48.2131426" lon="16.3350417">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Brunnenmarkt Stand"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="la Salvia"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://lasalvia.at/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="848000061" lat="48.1761806" lon="16.3675205">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Quellenstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="music_genre" v="jazz"/>
+    <tag k="name" v="Rendezvous"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="870980192" lat="48.2079865" lon="16.3704042">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Spiegelgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Fledermaus"/>
+    <tag k="phone" v="+43-1-5870196"/>
+    <tag k="website" v="http://www.fledermaus.at"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="897648009" lat="48.1746429" lon="16.3545880">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Medusa"/>
+    <tag k="operator" v="Fobos GmbH"/>
+  </node>
+  <node id="901058218" lat="48.2041025" lon="16.3744638">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Johannesgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bettel-Alm"/>
+    <tag k="website" v="http://www.bettel-alm.at/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="915644331" lat="48.1980440" lon="16.3562907">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Gumpendorfer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Joanelli"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="956159131" lat="48.2043363" lon="16.3717832">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Annagasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="New York Bar"/>
+    <tag k="website" v="http://www.newyork-bar.at/"/>
+  </node>
+  <node id="956430135" lat="48.2082188" lon="16.3771324">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Wollzeile"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:phone" v="+43 1 966 21 21"/>
+    <tag k="name" v="Hillinger Wineshop &amp; Bar"/>
+    <tag k="opening_hours" v="Mo-Fr 13:00-22:00; Sa 11:00-22:00"/>
+    <tag k="operator" v="Hillinger"/>
+    <tag k="website" v="https://www.leo-hillinger.com/wineshops/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="956430137" lat="48.2062341" lon="16.3768297">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Seilerstätte"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cafe Cristall"/>
+    <tag k="website" v="http://www.cristall-cafe.at/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1016849141" lat="48.2116576" lon="16.3736846">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Sterngasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="name" v="Heartbeat"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1066143899" lat="48.2013063" lon="16.3729296">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Kärntner Ring"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Imperial Bar"/>
+    <tag k="operator" v="Imperial Hotel"/>
+  </node>
+  <node id="1066619360" lat="48.1412929" lon="16.2917842">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="343"/>
+    <tag k="addr:postcode" v="1230"/>
+    <tag k="addr:street" v="Breitenfurter Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Quan"/>
+    <tag k="opening_hours" v="Tu-Su 11:00-15:00,17:00-22:00"/>
+  </node>
+  <node id="1091505630" lat="48.2182276" lon="16.4066187">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Sebastian-Kneipp-Gasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date:opening_hours" v="2022-07-05"/>
+    <tag k="name" v="Fritz von Stuwer"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="phone" v="+43 677 62651671"/>
+  </node>
+  <node id="1166298739" lat="48.2536376" lon="16.3540775">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cocktailbar"/>
+    <tag k="opening_hours" v="Mo-Sa 21:00-04:00; Su off"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1166599407" lat="48.1994486" lon="16.3328477">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="1150"/>
+    <tag k="addr:street" v="Märzstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/creamloungevienna"/>
+    <tag k="contact:website" v="http://creamlounge.at"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Cream Lounge"/>
+    <tag k="opening_hours" v="Mo-Th 15:00-00:00; Fr, Sa 15:00-04:00; Su 15:00-02:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1192826640" lat="48.2008367" lon="16.3369810">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1150"/>
+    <tag k="addr:street" v="Märzstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Café San Marco"/>
+    <tag k="opening_hours" v="Mo-Th 06:00-01:00, Fr,Sa 06:00-02:00, Su,PH 08:00-01:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1198439554" lat="48.2091034" lon="16.3943543">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Untere Weißgerberstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Club Massiv"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="phone" v="+43 681 20500194"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="website" v="http://www.massiv.at"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1203034330" lat="48.2104057" lon="16.3747466">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Rotenturmstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="yes"/>
+    <tag k="name" v="Hamp Box Cafe"/>
+    <tag k="opening_hours" v="Mo-Fr 12:00-02:00, Sa-Su 12:00-04:00, PH open"/>
+    <tag k="operator" v="WIESLER KG"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="http://www.hempbox.at"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1298221010" lat="48.2071890" lon="16.3526882">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Lange Gasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Open for Women, Lesbians, Intersex Persons and Transgender Persons"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="flinte"/>
+    <tag k="opening_hours" v="Th-Fr 19:00-24:00"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="website" v="https://finteflinte.org"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1308579742" lat="48.2080721" lon="16.3788860">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4b"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Dr.-Karl-Lueger-Platz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="La Fraschetta da Max"/>
+    <tag k="opening_hours" v="Tu-Sa 16:00-23:00"/>
+    <tag k="outdoor_seating" v="sidewalk"/>
+  </node>
+  <node id="1308610739" lat="48.2139140" lon="16.3711679">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Rudolfsplatz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="description" v="Küche: Di-Sa 17:00 bis 22:00&#10;Live music daily&#10;Startzeiten für Musik: 17:30 &amp; 19:30&#10;Reservierung: SMS an Michael: 0660 577 3817"/>
+    <tag k="name" v="Frau Mayer"/>
+    <tag k="opening_hours" v="Di-Do 15:00 – 01:00 Fr 15:00 – 02:00 Sa 11:58 – 02:00"/>
+    <tag k="website" v="https://www.fraumayer.at/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1308667841" lat="48.2131038" lon="16.3618818">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Universitätsring"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-10"/>
+    <tag k="man_made" v="surveillance"/>
+    <tag k="name" v="Wein &amp; Co"/>
+    <tag k="opening_hours" v="Mo-We 10:00-24:00; Th-Sa 10:00-01:00, Su 11:00-24:00; PH 11:00-24:00"/>
+    <tag k="surveillance" v="indoor"/>
+    <tag k="website" v="https://www.weinco.at/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1358151190" lat="48.1896405" lon="16.3556475">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Ramperstorffergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tik Tak Lounge"/>
+    <tag k="opening_hours" v="Mo-Th 20:00-02:00;Fr-Sa 20:00-04:00"/>
+    <tag k="sport" v="table_soccer"/>
+  </node>
+  <node id="1370226152" lat="48.2101362" lon="16.3533583">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Buchfeldgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tür 7"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="phone" v="+43 664 5463717"/>
+    <tag k="website" v="http://tuer7.at/"/>
+  </node>
+  <node id="1377764088" lat="48.2135059" lon="16.3521986">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Laudongasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Wildling Foods"/>
+    <tag k="phone" v="+43 664 1059789"/>
+    <tag k="website" v="https://www.wildling-foods.at/"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Durch den Notausgang"/>
+  </node>
+  <node id="1412503434" lat="48.2151175" lon="16.3749086">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Obere Donaustraße"/>
+    <tag k="addr:unit" v="3"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="pilsner_urquell"/>
+    <tag k="name" v="Adria Wien"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-1:00 Uhr"/>
+    <tag k="opening_hours:covid19" v="same"/>
+    <tag k="website" v="www.adriawien.at"/>
+  </node>
+  <node id="1437876729" lat="48.2054324" lon="16.3504177">
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Radio"/>
+    <tag k="opening_hours" v="Mo-Th 17:00-02:00, Fr,Sa 17:00-04:00"/>
+  </node>
+  <node id="1438264958" lat="48.2425800" lon="16.3341400">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Falkensteiner Weinstube"/>
+  </node>
+  <node id="1439072553" lat="48.1945532" lon="16.3615963">
+    <tag k="amenity" v="bar"/>
+    <tag k="gay" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Sling"/>
+  </node>
+  <node id="1439072574" lat="48.1959320" lon="16.3565890">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Nachtlokal"/>
+  </node>
+  <node id="1439091557" lat="48.1942692" lon="16.3567955">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Rüdigergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="caferuediger@chello.at"/>
+    <tag k="lgbtq" v="primary"/>
+    <tag k="lgbtq:men" v="only"/>
+    <tag k="name" v="Café Rüdiger"/>
+    <tag k="opening_hours" v="Mo-Th 19:00-24:00; Fr-Sa 19:00-02:00"/>
+    <tag k="website" v="http://caferüdiger.at/"/>
+  </node>
+  <node id="1439091561" lat="48.1936255" lon="16.3590512">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Diskothek Wiener Freiheit"/>
+    <tag k="opening_hours" v="Mo-Su,PH 21:00-18:00+"/>
+  </node>
+  <node id="1439102430" lat="48.1961447" lon="16.3571147">
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:twitter" v="https://twitter.com/LMCVienna"/>
+    <tag k="fetish:leather" v="yes"/>
+    <tag k="gay" v="yes"/>
+    <tag k="lgbtq" v="primary"/>
+    <tag k="name" v="Club Hardon Vienna"/>
+    <tag k="website" v="https://www.lmc-vienna.com/"/>
+  </node>
+  <node id="1442012594" lat="48.1859117" lon="16.4211799">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="1110"/>
+    <tag k="addr:street" v="Guglgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="https://www.gimlet.at"/>
+    <tag k="name" v="Gimlet"/>
+    <tag k="opening_hours" v="Mo-Su 15:00-23:00"/>
+    <tag k="smoking" v="isolated"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1460971270" lat="48.1992431" lon="16.3471885">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Novak"/>
+  </node>
+  <node id="1467022523" lat="48.2236856" lon="16.3574536">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Unplugged"/>
+  </node>
+  <node id="1467153076" lat="48.2276155" lon="16.3703373">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="1200"/>
+    <tag k="addr:street" v="Jägerstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Club-Howarda-269903463074582/"/>
+    <tag k="min_age" v="18"/>
+    <tag k="name" v="Hovarda Dance Club"/>
+  </node>
+  <node id="1467161864" lat="48.1920486" lon="16.3306549">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Private Etablisment"/>
+    <tag k="website" v="www.Sexhaus.at"/>
+  </node>
+  <node id="1467267659" lat="48.2279919" lon="16.3690236">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1200"/>
+    <tag k="addr:street" v="Klosterneuburger Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="min_age" v="18"/>
+    <tag k="name" v="Cafe Miami"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1467300183" lat="48.2300225" lon="16.3760419">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Freddys karaokeclub 29"/>
+  </node>
+  <node id="1467862682" lat="48.2276366" lon="16.3665356">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cashpoint"/>
+  </node>
+  <node id="1468212155" lat="48.2103581" lon="16.3456396">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Josefstädter Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Grande Cocktailbar"/>
+    <tag k="opening_hours" v="Mo-Th 18:00-02:00; Fr,Sa 18:00-04:00"/>
+    <tag k="phone" v="+43-676-361 97 60"/>
+    <tag k="website" v="http://grandebar.at/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1508521484" lat="48.2149664" lon="16.3763500">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Hollandstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.pilwax.at"/>
+    <tag k="name" v="Pilwax"/>
+    <tag k="opening_hours" v="Mo-Fr 12:00-23:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1540721019" lat="48.2105325" lon="16.3422785">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Stolzenthalergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="prost@damenspitz.wien"/>
+    <tag k="contact:phone" v="+43 1 4056126"/>
+    <tag k="name" v="Damenspitz"/>
+    <tag k="opening_hours" v="Mo-Th 18:00-01:00; Fr-Sa 18:00-02:00; PH,Su closed"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="website" v="http://www.damenspitz.wien/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1541917300" lat="48.2022382" lon="16.3539821">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Siebensterngasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="MEERU"/>
+    <tag k="opening_hours" v="Tu-Sa 18:00-02:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1575886812" lat="48.2028978" lon="16.3560470">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Kirchberggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="condition" v="good"/>
+    <tag k="contact:phone" v="+43 660 6660039"/>
+    <tag k="name" v="Papi´s Bar"/>
+    <tag k="opening_hours" v="Mo-Su 17:00-01:00"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1580828927" lat="48.2134974" lon="16.3518487">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Laudongasse"/>
+    <tag k="alt_name" v="USW-Beisl"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="u.s.w."/>
+    <tag k="opening_hours" v="Su 16:00-24:00; Mo-Sa 17:00-01:00"/>
+    <tag k="phone" v="+43 664 4945182"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="website" v="https://www.uswbeisl.com/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1588468283" lat="48.2063405" lon="16.3774348">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Liebenberggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Actress Lounge"/>
+    <tag k="source" v="openstreetbugs"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1591079266" lat="48.2017328" lon="16.3625966">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Getreidemarkt"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Addicted to Rock"/>
+    <tag k="opening_hours" v="Mo-Th 16:00-18:00+; Fr,Sa 11:30-18:00+; Su 16:00-18:00+"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="website" v="https://store.addicted.at/"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Nicht Barrierefrei. Viele Stufen."/>
+  </node>
+  <node id="1591079349" lat="48.2015786" lon="16.3624584">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Impuls Bar"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1591079464" lat="48.1979365" lon="16.3555966">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="eberts cocktail bar"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="outdoor_seating" v="no"/>
+  </node>
+  <node id="1591079494" lat="48.1979026" lon="16.3581010">
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="office@village-bar.at"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/VillageBarVienna"/>
+    <tag k="contact:website" v="http://www.village-bar.at/"/>
+    <tag k="gay" v="yes"/>
+    <tag k="lgbtq" v="primary"/>
+    <tag k="name" v="Village"/>
+    <tag k="opening_hours" v="Mo-Su,PH 20:00-03:00"/>
+  </node>
+  <node id="1591079501" lat="48.1982031" lon="16.3559690">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Weinhaus"/>
+  </node>
+  <node id="1630099990" lat="48.1203973" lon="16.2647154">
+    <tag k="addr:city" v="Perchtoldsdorf"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="2380"/>
+    <tag k="addr:street" v="Hochstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Cocktail-Bar"/>
+    <tag k="name" v="Burgbar"/>
+    <tag k="opening_hours" v="Tu-Sa 19:00+"/>
+    <tag k="phone" v="+43 699 19476734"/>
+    <tag k="website" v="https://www.burgbar.at/"/>
+  </node>
+  <node id="1665276227" lat="48.1880272" lon="16.2669517">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:postcode" v="1130"/>
+    <tag k="addr:street" v="Hietzinger Hauptstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Schneider-Gössl Sektbar"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="website" v="http://sektbar.hietzing.at/"/>
+  </node>
+  <node id="1676768068" lat="48.1989204" lon="16.3878548">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Neulich"/>
+    <tag k="opening_hours" v="Tu-Th 18:00-24:00; Fr,Sa 18:00-02:00"/>
+    <tag k="phone" v="+43 676 9197991"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.facebook.com/neulich.winkler"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1691939108" lat="48.1851763" lon="16.4193773">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:floor" v="6"/>
+    <tag k="addr:housename" v="Gasometer B"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1110"/>
+    <tag k="addr:street" v="Guglgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/gasobar"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Gasobar"/>
+    <tag k="opening_hours" v="Tu 20:00-02:00, We 20:00-02:00; Fr 20:00-04:00, Sa 20:00-04:00"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1722364856" lat="48.2131507" lon="16.4137038">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Grü Lounge"/>
+  </node>
+  <node id="1723752707" lat="48.2315930" lon="16.3616870">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Spittelauer Lände"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.spittelau10.at"/>
+    <tag k="name" v="Spittelau 10"/>
+    <tag k="opening_hours" v="&quot;on request&quot;"/>
+  </node>
+  <node id="1729254629" lat="48.1978378" lon="16.3644261">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Schleifmühlgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Sekt Bar und Geschäft"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Sektcomptoir"/>
+    <tag k="opening_hours" v="We,Th 17:00-23:00; Fr 15:00-23:00; Sa 12:00-23:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="product" v="sparkling wine"/>
+    <tag k="website" v="www.sektcomptoir.at"/>
+  </node>
+  <node id="1729255371" lat="48.1980274" lon="16.3641846">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Schleifmühlgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Xeno"/>
+    <tag k="opening_hours" v="Mo-Th 18:00-02:00;Fr-Sa 18:00-04:00;Su 20:00-02:00"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="website" v="http://www.xeno.at/"/>
+  </node>
+  <node id="1752561673" lat="48.2196182" lon="16.3254723">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housename" v="Senator Hotel Vienna"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="1170"/>
+    <tag k="addr:street" v="Hernalser Hauptstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Senator Bar"/>
+    <tag k="website" v="https://www.rainer-hotels.at/senator"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1756173656" lat="48.1973456" lon="16.3547732">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Luftbadgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Luftbad"/>
+    <tag k="website" v="http://www.luftbad.at/"/>
+  </node>
+  <node id="1756941534" lat="48.2118009" lon="16.3721828">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Salvatorgasse"/>
+    <tag k="alt_name" v="Chill out lounge"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Chill out"/>
+    <tag k="opening_hours" v="17:00-02:00"/>
+    <tag k="website" v="http://www.chillout-lounge.at/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1759921000" lat="48.1979277" lon="16.3555548">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Gumpendorfer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date:opening_hours" v="2022-03-06"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Eberts Cocktailbar"/>
+    <tag k="opening_hours" v="Tu-Sa 19:00-02:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="+43 1 5865465"/>
+    <tag k="website" v="http://www.eberts.at/"/>
+  </node>
+  <node id="1764201661" lat="48.2013509" lon="16.3615944">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Rahlgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="bar@topkino.at"/>
+    <tag k="name" v="Top Kino Bar"/>
+    <tag k="opening_hours" v="Mo-We 11:00-02:00;Th-Sa 11:00-04:00;Su 10:30-00:00"/>
+    <tag k="phone" v="+43-1-2083000"/>
+    <tag k="smoking" v="no"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://www.topkino.at/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1836989583" lat="48.1813814" lon="16.3317022">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Weidlich Café Konditorei"/>
+    <tag k="opening_hours" v="Mo-Fr 09:20-17:00"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1888704366" lat="48.2186109" lon="16.4012936">
+    <tag k="amenity" v="bar"/>
+    <tag k="brothel:club" v="yes"/>
+    <tag k="name" v="Xena Bar"/>
+  </node>
+  <node id="1921846107" lat="48.2013040" lon="16.3601400">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Mariahilfer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date:opening_hours" v="2022-07-24"/>
+    <tag k="email" v="bar@lutz-bar.at"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="lutz - die bar"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="operator" v="Lutz Barbetrieb GmbH"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="+43 1 585 36 46"/>
+    <tag k="smoking" v="isolated"/>
+    <tag k="source" v="www.lutz-bar.at"/>
+    <tag k="website" v="https://www.lutz-bar.at/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1924276045" lat="48.2092086" lon="16.3769784">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Sonnenfelsgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Blue Bar"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1927753846" lat="48.2098819" lon="16.3389569">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="29-30"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Stadtbahnbogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Chelsea"/>
+    <tag k="website" v="http://www.chelsea.co.at"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1927759612" lat="48.2089053" lon="16.3381486">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Lerchenfelder Gürtel"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Loft"/>
+    <tag k="opening_hours" v="Tu-We 19:00-02:00;Th 17:30-02:00;Fr-Sa 20:00-04:00"/>
+    <tag k="operator" v="The Loft Betriebs GmbH"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="website" v="https://www.theloft.at/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1949363099" lat="48.2072597" lon="16.3691375">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Dorotheergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Nightfly's American Bar"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="website" v="https://www.nightflys.at/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1949411509" lat="48.2150228" lon="16.3709128">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Gonzagagasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Club Berlin"/>
+    <tag k="opening_hours" v="Su-Th 18:00-02:00;Fr-Sa 18:00-04:00"/>
+    <tag k="outdoor_seating" v="sidewalk"/>
+    <tag k="phone" v="+43 1 5330479"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="website" v="http://www.clubberlin.at"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1949411512" lat="48.2132963" lon="16.3708365">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Salzgries"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-10"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Dino's Apothecary Bar"/>
+    <tag k="opening_hours" v="Mo-Th 18:00-03:00, Fr 18:00-04:00, Sa 19:00-04:00, Su 19:00-02:00"/>
+    <tag k="outdoor_seating" v="parklet"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1949419327" lat="48.2093369" lon="16.3753437">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Kix Bar"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1970364590" lat="48.2161618" lon="16.3662900">
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.eastcoast.at"/>
+    <tag k="name" v="East Coast"/>
+    <tag k="opening_hours" v="Mo-Fr 17:00-02:00, Sa,PH 19:30-02:00"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1970367987" lat="48.2149562" lon="16.3655123">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-10"/>
+    <tag k="email" v="office@csernibar.at"/>
+    <tag k="name" v="Cserni"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-24:00"/>
+    <tag k="phone" v="+43 (0)1 / 5337007"/>
+    <tag k="phone:mobile" v="+43 (0)664 / 3186319"/>
+    <tag k="website" v="https://www.csernibar.at/"/>
+  </node>
+  <node id="1992827875" lat="48.2107552" lon="16.3390688">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="37-38"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Stadtbahnbogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="rhiz"/>
+    <tag k="website" v="http://rhiz.org/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2048179815" lat="48.2207396" lon="16.3645077">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Grünentorgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Leger"/>
+  </node>
+  <node id="2048199383" lat="48.2285539" lon="16.3435697">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Gymnasiumstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="d.e.r. Location"/>
+    <tag k="opening_hours" v="Mo-Su 18:00-02:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="phone" v="+43 699 19478040"/>
+    <tag k="sport" v="table_soccer"/>
+  </node>
+  <node id="2113476871" lat="48.2083413" lon="16.3717776">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housename" v="Haas Haus"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Stephansplatz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Onyx Bar"/>
+  </node>
+  <node id="2129501690" lat="48.2151462" lon="16.3085416">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tropikal"/>
+  </node>
+  <node id="2145110892" lat="48.2010306" lon="16.3255219">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="1150"/>
+    <tag k="addr:street" v="Tellgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="info@schwelle.at"/>
+    <tag k="min_age" v="18"/>
+    <tag k="name" v="schwelle.wien"/>
+    <tag k="source" v="local knowledge;https://schwelle.at"/>
+    <tag k="website" v="https://schwelle.at/"/>
+  </node>
+  <node id="2152354102" lat="48.2178372" lon="16.3602357">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Wasagasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="krypt."/>
+    <tag k="website" v="http://krypt.bar"/>
+  </node>
+  <node id="2156238168" lat="48.2168244" lon="16.3497509">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Höfergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="https://soundterrasse.business.site"/>
+    <tag k="name" v="Soundterrasse"/>
+    <tag k="opening_hours" v="Th-Fr 17:00-23:00"/>
+  </node>
+  <node id="2184683518" lat="48.1910096" lon="16.3284741">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="1150"/>
+    <tag k="addr:street" v="Schwendergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/zumschwarzenflamingo"/>
+    <tag k="contact:phone" v="+43 664 1986043"/>
+    <tag k="name" v="Zum Schwarzen Flamingo"/>
+    <tag k="opening_hours" v="Tu-Fr 16:00-01:00; Sa 18:00-01:00"/>
+  </node>
+  <node id="2336571028" lat="48.2003729" lon="16.3361653">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1150"/>
+    <tag k="addr:street" v="Märzstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Caffè Verona"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-02:00, Sa,Su 08:00-24:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="2347275566" lat="48.2304766" lon="16.3515804">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Währinger Gürtel"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Baku Lounge"/>
+    <tag k="opening_hours" v="Mo-Su 14:00-02:00"/>
+    <tag k="smoking" v="dedicated"/>
+    <tag k="website" v="http://baku-lounge.com/reserve.php"/>
+  </node>
+  <node id="2352669698" lat="48.2136921" lon="16.3901695">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Hafenkneipe"/>
+  </node>
+  <node id="2353475441" lat="48.1751922" lon="16.3300829">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:postcode" v="1120"/>
+    <tag k="addr:street" v="Meidlinger Hauptstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Golden Harp Kaffeehaus"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-02:00, PH,Su 10:00-24:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2359394178" lat="48.1958724" lon="16.3981282">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="25–27"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Baumgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar Black Lounge"/>
+    <tag k="opening_hours" v="Mo-Su 15:00-24:00"/>
+    <tag k="phone" v="+43-1-920 3944"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2415389880" lat="48.2602057" lon="16.3663263">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1190"/>
+    <tag k="addr:street" v="Nußdorfer Platz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Shakes"/>
+    <tag k="opening_hours" v="PH,Mo-Sa 18:00-01:00; Su off"/>
+    <tag k="phone" v="+43 676 6514765"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2437230770" lat="48.2198457" lon="16.3829120">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Glockengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Zum Schatz"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2458558769" lat="48.1852274" lon="16.2996592">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="1130"/>
+    <tag k="addr:street" v="Altgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Schaumweinhäuschen"/>
+    <tag k="opening_hours" v="PH,Mo-Su 19:00+"/>
+    <tag k="phone" v="+43 1 8764816"/>
+    <tag k="source" v="personal observation"/>
+    <tag k="website" v="http://www.schaumweinhaeuschen.at"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Türbreite 110 cm, Tür ist 2 Flüglig (geprüft von FORSCH!13)"/>
+  </node>
+  <node id="2476501165" lat="48.2006052" lon="16.3717769">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Karlsplatz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bergstation Tirol"/>
+    <tag k="phone" v="+43 (1) 505 38 39"/>
+    <tag k="website" v="http://www.bergstation-tirol.at/"/>
+  </node>
+  <node id="2506067377" lat="48.2360484" lon="16.3778858">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1200"/>
+    <tag k="addr:street" v="Hellwagstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Café Haller"/>
+    <tag k="opening_hours" v="Mo-Sa,PH 10:00-02:00, Su 10:00-24:00"/>
+    <tag k="phone" v="+43 1 3325566"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2538461878" lat="48.2028144" lon="16.3661961">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Le Moet"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2568290640" lat="48.1965154" lon="16.3553169">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Magdalenenstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="Stiegl;Pilsner;Kozel"/>
+    <tag k="gay" v="welcome"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="min_age" v="16"/>
+    <tag k="name" v="The Hive"/>
+    <tag k="old_name" v="Red Carpet;Gärtnerinsel"/>
+    <tag k="opening_hours" v="Mo-Su 17:00-01:00"/>
+    <tag k="opening_hours:covid19" v="Mo-Su 17:00-01:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="https://the-hive.at/"/>
+  </node>
+  <node id="2592091647" lat="48.1972602" lon="16.3545314">
+    <tag k="amenity" v="bar"/>
+    <tag k="gay" v="yes"/>
+    <tag k="name" v="Kisss"/>
+    <tag k="phone" v="+43 1 5811560"/>
+  </node>
+  <node id="2617117223" lat="48.2142447" lon="16.3832447">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Duzi's"/>
+    <tag k="opening_hours" v="Su-Th 12:00-24:00, Fr,Sa 12:00-02:00"/>
+    <tag k="outdoor_seating" v="sidewalk"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2650654801" lat="48.2040473" lon="16.3713220">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Krugerstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Kruger's"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="http://www.krugers.at/"/>
+  </node>
+  <node id="2669050201" lat="48.2000959" lon="16.3543037">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Wein &amp; Co"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-2:00; Su 15:00 - 24:00; PH 15:00 - 24:00"/>
+    <tag k="phone" v="+43 5 07 06-3022"/>
+    <tag k="shop" v="vinothek"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2693105392" lat="48.1870432" lon="16.3003072">
+    <tag k="amenity" v="bar"/>
+    <tag k="biergarten" v="yes"/>
+  </node>
+  <node id="2710845517" lat="48.2319591" lon="16.4125779">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="57 Restaurant &amp; Lounge"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2744327532" lat="48.1963477" lon="16.3410297">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Mariahilfer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Köö"/>
+    <tag k="opening_hours" v="Mo-Th 16:00-24:00, Fr 16:00-02:00, Sa 14:00-02:00, Su 14:00-23:00"/>
+    <tag k="sport" v="billiards"/>
+  </node>
+  <node id="2825068737" lat="48.2028410" lon="16.3682597">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Opernring"/>
+    <tag k="alt_name" v="Albertinapassage; O the Club; O Vienna; O Klub"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="O der Klub"/>
+    <tag k="phone" v="+43 676 9701545"/>
+    <tag k="website" v="https://www.facebook.com/O.Vienna/"/>
+  </node>
+  <node id="2886905792" lat="48.2005317" lon="16.3581134">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Windmühlgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Stehbeisl"/>
+    <tag k="opening_hours" v="Mo-Sa 17:00-04:00, PH,Su 18:00-02:00"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2887404176" lat="48.1998460" lon="16.3451752">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Zieglergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Xalos"/>
+  </node>
+  <node id="2962299633" lat="48.2099932" lon="16.3722932">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="11-13"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Bauernmarkt"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="mail@robertosbar.com"/>
+    <tag k="contact:phone" v="+43 676 9429001"/>
+    <tag k="contact:website" v="http://www.robertosbar.com/"/>
+    <tag k="name" v="Roberto American Bar"/>
+    <tag k="opening_hours" v="Mo 12:00-04:00; Tu 12:00-04:00; We 12:00-04:00; Th 12:00-04:00; Fr 12:00-04:00; Sa 12:00-04:00; Su 12:00-04:00"/>
+  </node>
+  <node id="2984602439" lat="48.1974387" lon="16.3673297">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Wiedner Hauptstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Silver Bar"/>
+    <tag k="opening_hours" v="Tu-Sa 19:00-03:00"/>
+    <tag k="phone" v="+43 1 589 180"/>
+    <tag k="website" v="https://www.dastriest.at/index_mobile.php?site=silverbar"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3016782533" lat="48.2017687" lon="16.3520098">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Kirchengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="capacity" v="30"/>
+    <tag k="delivery" v="no"/>
+    <tag k="name" v="Laimgrube"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3034087245" lat="48.2089655" lon="16.3366808">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Thaliastraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Heinrichs Gastronomie &amp; Veranstaltungsräume"/>
+    <tag k="name:de" v="Heinrichs Gastronomie &amp; Veranstaltungsräume"/>
+  </node>
+  <node id="3057641946" lat="48.1598722" lon="16.3093263">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Rocknrolla"/>
+  </node>
+  <node id="3057641952" lat="48.1617220" lon="16.3117251">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cleopatra"/>
+  </node>
+  <node id="3114407824" lat="48.2093928" lon="16.3486411">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Strozzigasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="drink:gin" v="yes"/>
+    <tag k="name" v="Das Torberg"/>
+    <tag k="opening_hours" v="Tu-Sa 17:00-24:00"/>
+    <tag k="operator" v="Gerald Alexander Gsöls"/>
+    <tag k="phone" v="+43 1 9563479"/>
+    <tag k="smoking" v="no"/>
+    <tag k="website" v="https://www.dastorberg.at/"/>
+  </node>
+  <node id="3171408096" lat="48.2064383" lon="16.3722737">
+    <tag k="amenity" v="bar"/>
+    <tag k="level" v="7"/>
+    <tag k="name" v="Sky Bar"/>
+  </node>
+  <node id="3215150277" lat="48.1995721" lon="16.3616147">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Girardigasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="office@puff-bar.at"/>
+    <tag k="contact:phone" v="+43 1 5810931"/>
+    <tag k="contact:website" v="http://www.puff-bar.at"/>
+    <tag k="name" v="Puff"/>
+    <tag k="opening_hours" v="Tu-Th 19:00-2:00; Fr-Sa 19:00-04:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3215670080" lat="48.2071608" lon="16.3712027">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Kärntner Straße"/>
+    <tag k="addr:unit" v="Eingang Kärntner Durchgang"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="office@loosbar.at"/>
+    <tag k="contact:phone" v="+43 1 5123283"/>
+    <tag k="contact:website" v="http://www.loosbar.at"/>
+    <tag k="name" v="Loosbar"/>
+    <tag k="opening_hours" v="Mo-We 12:00-04:00; Th-Sa 12:00-05:00; Su 12:00-04:00"/>
+    <tag k="wikidata" v="Q463452"/>
+  </node>
+  <node id="3215857484" lat="48.2119116" lon="16.3753881">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Rabensteig"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="contact:email" v="maranda.k@wavenet.at"/>
+    <tag k="contact:phone" v="+43 1 9584890"/>
+    <tag k="contact:website" v="http://www.casablanca-musik.at"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Casablanca"/>
+    <tag k="opening_hours" v="Mo-Sa 12:00-04:00; Su 17:00-04:00"/>
+    <tag k="outdoor_seating" v="pedestrian_zone"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3215857485" lat="48.2119446" lon="16.3751675">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Rabensteig"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="name" v="Le Club"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3215857486" lat="48.2117497" lon="16.3750644">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Seitenstettengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="contact:email" v="drinks@firstfloorbar.at"/>
+    <tag k="contact:phone" v="+43 1 5321165"/>
+    <tag k="contact:website" v="http://firstfloorbar.at"/>
+    <tag k="name" v="First Floor American Bar"/>
+    <tag k="opening_hours" v="Mo-Su 20:00-04:00"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3215857490" lat="48.2117525" lon="16.3747232">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Seitenstettengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="check_date:opening_hours" v="2021-06-03"/>
+    <tag k="contact:email" v="office@kaktusbar.at"/>
+    <tag k="contact:phone" v="+43 676 6704405"/>
+    <tag k="contact:website" v="http://www.kaktusbar.at"/>
+    <tag k="name" v="Kaktus"/>
+    <tag k="opening_hours" v="Mo-Su 19:00-04:00"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3215857493" lat="48.2118366" lon="16.3742811">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Seitenstettengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="contact:phone" v="+43 1 5353387"/>
+    <tag k="contact:website" v="http://marincomics.com/nonplusultra"/>
+    <tag k="name" v="Non+Ultra"/>
+    <tag k="opening_hours" v="Mo-Th 19:00-02:00; Fr, Sa 19:00-04:00"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3215857494" lat="48.2117696" lon="16.3751582">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Seitenstettengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="contact:email" v="bar@ronconsoda.at"/>
+    <tag k="contact:phone" v="+43 650 3192184"/>
+    <tag k="contact:website" v="http://www.ronconsoda.at"/>
+    <tag k="name" v="Ron Con Soda"/>
+    <tag k="opening_hours" v="19:00-04:00"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3215857495" lat="48.2118628" lon="16.3751726">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Rabensteig"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="contact:email" v="office@roterengel.at"/>
+    <tag k="contact:phone" v="+43 1 5354105"/>
+    <tag k="contact:website" v="http://www.roterengel.at"/>
+    <tag k="name" v="Roter Engel"/>
+    <tag k="opening_hours" v="Mo-Su 17:00-04:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3215857496" lat="48.2117525" lon="16.3748283">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Seitenstettengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="contact:email" v="office@slammerbar.at"/>
+    <tag k="contact:website" v="http://www.slammerbar.at"/>
+    <tag k="name" v="Slammerbar"/>
+    <tag k="opening_hours" v="Mo-Sa 19:00-04:00"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3235042362" lat="48.2047785" lon="16.3398092">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Kaiserstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tredici Gradi"/>
+    <tag k="opening_hours" v="Mo-Sa 14:00-24:00; Su 16:00-23:00"/>
+    <tag k="phone" v="+43 1 2366 4444"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="website" v="https://www.tredicigradi.at/"/>
+  </node>
+  <node id="3296415382" lat="48.1691032" lon="16.3467967">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Wienerbergstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="office@dasturm.at"/>
+    <tag k="fax" v="+43 (0)1 / 607 65 00 - 50"/>
+    <tag k="name" v="das Turm"/>
+    <tag k="opening_hours" v="Mo-Fr 17:00-24:00"/>
+    <tag k="operator" v="managed by msplus"/>
+    <tag k="phone" v="+43 (0)1 / 607 65 00"/>
+    <tag k="website" v="http://www.dasturm.at/"/>
+  </node>
+  <node id="3325473825" lat="48.2005679" lon="16.3614561">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="10-12"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Gumpendorfer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="info@ifdogsrunfree.com"/>
+    <tag k="name" v="if dogs run free"/>
+    <tag k="opening_hours" v="Mo-Th 17:00-01:00; Fr-Sa 17:00-03:00"/>
+    <tag k="operator" v="Tzou Lubroth Fink Gastronomie KG"/>
+    <tag k="phone" v="+43 1 9132 132"/>
+    <tag k="smoking" v="no"/>
+    <tag k="website" v="http://www.ifdogsrunfree.com"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3338908126" lat="48.1761340" lon="16.3170802">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="1120"/>
+    <tag k="addr:street" v="Hohenbergstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Am Tivoli"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00 Su 08:00-14:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="source" v="website;local knowledge"/>
+    <tag k="website" v="https://espressoamtivoli.webnode.at/"/>
+  </node>
+  <node id="3360763824" lat="48.2141366" lon="16.3532335">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Schlösselgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Underdog Bar"/>
+    <tag k="opening_hours" v="Mo-Th 16:00-01:30; Fr 16:00-03:00; Sa 18:00-03:00"/>
+    <tag k="sport" v="table_soccer"/>
+  </node>
+  <node id="3360770299" lat="48.2102221" lon="16.3385611">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Lerchenfelder Gürtel"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Weberknecht"/>
+    <tag k="opening_hours" v="Mo-Su 16:00-04:00"/>
+    <tag k="phone" v="+43 1 9421502"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="website" v="http://www.weberknecht.net/"/>
+  </node>
+  <node id="3360829687" lat="48.2146143" lon="16.3478424">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Skodagasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="capacity" v="70"/>
+    <tag k="name" v="Debakel"/>
+    <tag k="opening_hours" v="Mo-Su 20:00-03:33"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="isolated"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="website" v="https://www.debakel.at"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3371258561" lat="48.1990757" lon="16.3585181">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Gumpendorfer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/marea.alta.at"/>
+    <tag k="contact:website" v="http://marea-alta.at/"/>
+    <tag k="gay" v="yes"/>
+    <tag k="lgbtq" v="primary"/>
+    <tag k="name" v="Marea Alta"/>
+    <tag k="opening_hours" v="Mo-Th 19:00-02:00, Fr-Sa 19:00-04:00"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3387746826" lat="48.2148113" lon="16.3719670">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Rudolfsplatz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:phone" v="+43 650 3149072"/>
+    <tag k="contact:website" v="http://www.barandmore.at"/>
+    <tag k="name" v="Bar &amp; More"/>
+    <tag k="opening_hours" v="Mo-Th 15:00+; PH,Su off; Sa &quot;Auf Reservierung&quot;"/>
+  </node>
+  <node id="3387746827" lat="48.2150599" lon="16.3718776">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Heinrichsgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="rudolfsplatz@pannonisch.at"/>
+    <tag k="contact:phone" v="+43 664 88345150"/>
+    <tag k="contact:website" v="http://www.pannonisch.at"/>
+    <tag k="name" v="Michael's Bier-&amp; Weinbar"/>
+    <tag k="opening_hours" v="Mo-Fr 16:00-24:00; PH off"/>
+    <tag k="website" v="http://www.michaels-bar.at/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3425523135" lat="48.2295680" lon="16.3503878">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Stadtbahnbogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Cocktail Bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Halbestadt"/>
+    <tag k="opening_hours" v="Mo-Th 19:00-02:00; Fr-Sa 19:00-04:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+43 1 319 47 35"/>
+    <tag k="website" v="http://www.halbestadt.at/"/>
+  </node>
+  <node id="3425594713" lat="48.2296830" lon="16.3562844">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="104-106"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Liechtensteinstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Cocktail Bar"/>
+    <tag k="email" v="office@thesignlounge.at"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="The Sign"/>
+    <tag k="opening_hours" v="Mo-Su 18:00+"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="+43 664 964 32 76"/>
+    <tag k="website" v="https://www.thesignlounge.at/"/>
+  </node>
+  <node id="3461140513" lat="48.2267420" lon="16.3622679">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="6d"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Nordbergstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="diebar@event-bar-elfuego.at"/>
+    <tag k="name" v="El Fuego"/>
+    <tag k="opening_hours" v="Tu-Th 16:00-22:00; Su, Mo, PH closed"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+43 (0)676 / 633 20 33"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="website" v="http://event-bar-elfuego.at"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3461389414" lat="48.2409906" lon="16.3986650">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housename" v="Restaurant"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1210"/>
+    <tag k="addr:street" v="An der Neuen Donau"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="USUS am Wasser"/>
+    <tag k="opening_hours" v="Th-Su 10:30-22:30"/>
+    <tag k="opening_hours:covid19" v="restricted"/>
+    <tag k="source" v="own"/>
+    <tag k="website" v="https://www.amwasser.wien"/>
+  </node>
+  <node id="3461830768" lat="48.2122720" lon="16.3736862">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Marc-Aurel-Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.gruenerkakadu.at"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Grüner Kakadu"/>
+    <tag k="opening_hours" v="Tu-Sa 17:00-02:00"/>
+    <tag k="outdoor_seating" v="parklet"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3509894396" lat="48.2159756" lon="16.3872136">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="2Lounge"/>
+    <tag k="opening_hours" v="Mo-Th 12:00-01:00; Fr-Sa 12:00-14:00; Su 14:00-00:00"/>
+    <tag k="phone" v="+43 699 10020061"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3512205710" lat="48.2303154" lon="16.4063056">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Porto Pollo"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="website" v="https://www.facebook.com/portopollo.vienna"/>
+  </node>
+  <node id="3515938930" lat="48.2194138" lon="16.3765333">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Leopoldistüberl"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="3517310472" lat="48.2028547" lon="16.3562912">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Kirchberggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="condition" v="good"/>
+    <tag k="name" v="Bukowski the Pub"/>
+    <tag k="opening_hours" v="Mo-Su 15:00-06:00"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3532940644" lat="48.1993909" lon="16.3325718">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="1150"/>
+    <tag k="addr:street" v="Märzstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/flaegship/"/>
+    <tag k="contact:website" v="http://www.brauhund.com"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Flægship Rudolfsheim"/>
+    <tag k="opening_hours" v="Mo-Sa 17:00-02:00; Su 15:00-02:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="sport" v="table_soccer"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3642077698" lat="48.2139589" lon="16.3356142">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Fania"/>
+  </node>
+  <node id="3645208582" lat="48.2095820" lon="16.3785201">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Postgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.postgasse11.com"/>
+    <tag k="name" v="Rainers Bar"/>
+    <tag k="opening_hours" v="Mo-Sa 17:00+"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3645208588" lat="48.2099107" lon="16.3788176">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Fleischmarkt"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Vinogin"/>
+    <tag k="opening_hours" v="Mo-Fr 17:00-24:00; Sa 06:00-12:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3682024831" lat="48.2010188" lon="16.3468921">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Hermanngasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/acabarwien/"/>
+    <tag k="name" v="Acabar"/>
+    <tag k="opening_hours" v="TU-SA 17:00-02:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:cash" v="only"/>
+    <tag k="phone" v="+431 990 80 24"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="toilets:wheelchair" v="no"/>
+  </node>
+  <node id="3759218459" lat="48.1858220" lon="16.3307025">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar Babalu"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3759222636" lat="48.1868059" lon="16.3328887">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Walhalla Motorradclub"/>
+  </node>
+  <node id="3789312658" lat="48.1974109" lon="16.3660323">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Operngasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-21"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Cafe Nest"/>
+    <tag k="opening_hours" v="Tu-Su 10:00-24:00"/>
+    <tag k="smoking" v="no"/>
+    <tag k="toilets" v="yes"/>
+  </node>
+  <node id="3794006165" lat="48.2146956" lon="16.3343357">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Ottakringer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Club Wien West Zøne"/>
+  </node>
+  <node id="3796926372" lat="48.1951404" lon="16.3518108">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Esterházygasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Miranda"/>
+    <tag k="opening_hours" v="Mo-Th 18:00-02:00; Fr-Sa 18:00-03:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+ 43 1 9528794"/>
+    <tag k="website" v="http://www.mirandabar.com/"/>
+  </node>
+  <node id="3805092040" lat="48.1937068" lon="16.3486723">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Hirschengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="diet:gluten_free" v="only"/>
+    <tag k="name" v="Grüner Salon"/>
+    <tag k="website" v="http://www.gruener-salon.at"/>
+  </node>
+  <node id="3853297525" lat="48.2132753" lon="16.3709660">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Salzgries"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-10"/>
+    <tag k="name" v="The Look Bar"/>
+    <tag k="opening_hours" v="18:00-04:00"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3886530194" lat="48.2067265" lon="16.3745463">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Franziskanerplatz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tramezzini Bar"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3894592155" lat="48.2177094" lon="16.3819396">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Franz von Hahn"/>
+    <tag k="opening_hours" v="Mo-Fr 18:00-02:00, Sa 19:00-02:00, Su 19:00+"/>
+  </node>
+  <node id="3929688461" lat="48.2146823" lon="16.3364637">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Ottakringer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cafe Monaco"/>
+  </node>
+  <node id="3934158869" lat="48.2205002" lon="16.3330607">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="1170"/>
+    <tag k="addr:street" v="Kalvarienberggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="For You"/>
+  </node>
+  <node id="3956744441" lat="48.2602311" lon="16.3955848">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="1210"/>
+    <tag k="addr:street" v="Prager Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Star Voice Lounge"/>
+    <tag k="opening_hours" v="Mo-Sa 19:00-04:00"/>
+  </node>
+  <node id="3964578496" lat="48.2240998" lon="16.3506702">
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="wirtin@schwirtz.at"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Schwirtz"/>
+    <tag k="opening_hours" v="Mo-Sa 17:00+"/>
+    <tag k="operator" v="Firma Schwirtz KG"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="website" v="https://www.visavisvolksoper.at/"/>
+  </node>
+  <node id="4068343023" lat="48.2043113" lon="16.3513618">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="28-32"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Burggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="condition" v="fair"/>
+    <tag k="contact:phone" v="004319423272"/>
+    <tag k="contact:website" v="http://www.lizardpub.at"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="The Lizard - Pub &amp; Billards"/>
+    <tag k="opening_hours" v="Mo-Su 16:00-02:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="isolated"/>
+    <tag k="website" v="https://www.lizardpub.at/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4088782472" lat="48.2040983" lon="16.3416728">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Halbgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Fortuna"/>
+  </node>
+  <node id="4090395118" lat="48.2004179" lon="16.3927956">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Hintzerstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ströck Feierabend"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa,Su 07:00-18:00; PH 08:00-18:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4096883256" lat="48.1998096" lon="16.3666209">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-23"/>
+    <tag k="min_age" v="18"/>
+    <tag k="name" v="Admiral"/>
+    <tag k="opening_hours" v="09:00-23:30"/>
+    <tag k="operator" v="Admiral Sportwetten"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4096953621" lat="48.1988562" lon="16.3651722">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Faulmanngasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Wiener Blut"/>
+  </node>
+  <node id="4100007717" lat="48.2207068" lon="16.3985405">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Club 9 Club"/>
+  </node>
+  <node id="4100026438" lat="48.2042084" lon="16.3412277">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Burggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-10-01"/>
+    <tag k="name" v="Acabar"/>
+    <tag k="opening_hours" v="Tu-Sa 17:00-24:00"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="payment:debit_cards" v="no"/>
+  </node>
+  <node id="4100027617" lat="48.2044131" lon="16.3413377">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Burggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Peep Show"/>
+  </node>
+  <node id="4100094489" lat="48.2037061" lon="16.3399978">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="67-69"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Kaiserstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="K69"/>
+  </node>
+  <node id="4100575549" lat="48.2196446" lon="16.3988814">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="plava laguna"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa,Su 09:00-19:00"/>
+  </node>
+  <node id="4100575557" lat="48.2194033" lon="16.3989954">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Wolfgang-Schmälzl-Gasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Zur Legende"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="sport" v="darts"/>
+  </node>
+  <node id="4100575561" lat="48.2181903" lon="16.3986313">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Marion's Bar"/>
+    <tag k="opening_hours:signed" v="no"/>
+  </node>
+  <node id="4100575577" lat="48.2189154" lon="16.3989471">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Stuwerstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="praterlounge@gmx.at"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Praterlounge/"/>
+    <tag k="contact:phone" v="+43 676 7919637"/>
+    <tag k="description" v="Shisha Lounge"/>
+    <tag k="name" v="Prater Lounge"/>
+    <tag k="note" v="Vormals Cafe Nuki"/>
+    <tag k="old_name" v="Café Nuki"/>
+    <tag k="opening_hours" v="Mo-Th 13:00-02:00; Fr 14:00-02:00; Sa Su 15:00-02:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="no"/>
+  </node>
+  <node id="4111851445" lat="48.2194858" lon="16.3614538">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Thurngasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Café Lassa"/>
+    <tag k="opening_hours" v="Mo-Sa 18:00-01:00, Su 18:00-00:00"/>
+    <tag k="phone" v="+43676/963-7795"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.facebook.com/CafeLassa"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4116304263" lat="48.1978747" lon="16.3605628">
+    <tag k="amenity" v="bar"/>
+    <tag k="gay" v="yes"/>
+    <tag k="name" v="Mango"/>
+  </node>
+  <node id="4116304264" lat="48.1980238" lon="16.3604556">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tonstube"/>
+  </node>
+  <node id="4118542488" lat="48.1988043" lon="16.3636053">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="C8"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Naschmarkt"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Weinkeller"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4141815826" lat="48.2111950" lon="16.3732441">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Sektcomptoir Szigeti"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4156396896" lat="48.2112843" lon="16.3700525">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Kurrentgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.meetbar.at"/>
+    <tag k="name" v="Meetbar"/>
+    <tag k="note" v="An der Tür steht, abweichend von der Website, 16:00-02:00"/>
+    <tag k="opening_hours" v="Tu-Sa 17:00-02:00"/>
+  </node>
+  <node id="4234488293" lat="48.2017407" lon="16.3709701">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Drings"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4234492091" lat="48.2117928" lon="16.3738887">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Vulcania"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4234514090" lat="48.2118922" lon="16.3741026">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="name" v="King's"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4234524789" lat="48.2117514" lon="16.3746157">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="name" v="Meinz"/>
+    <tag k="opening_hours" v="Tu-Th 18:00-01:00, Fr,Sa 18:00-02:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4234524889" lat="48.2119775" lon="16.3739915">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Morgans"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4239915089" lat="48.1861738" lon="16.3240709">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Colosseum"/>
+  </node>
+  <node id="4239973192" lat="48.2063414" lon="16.3702788">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="1010 Bar Cafe"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4249094989" lat="48.2179701" lon="16.3169854">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Speckbachergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="beimir"/>
+    <tag k="opening_hours" v="Tu-Sa 19:00-01:00"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+436503666700"/>
+    <tag k="website" v="https://www.beimir.at/"/>
+  </node>
+  <node id="4264226302" lat="48.2162242" lon="16.5296122">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="addr:street" v="Gartenheimstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Livin'Room27"/>
+    <tag k="smoking" v="separated"/>
+  </node>
+  <node id="4282123032" lat="48.1458124" lon="16.2950000">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="248"/>
+    <tag k="addr:postcode" v="1230"/>
+    <tag k="addr:street" v="Breitenfurter Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Admiral Sportwetten"/>
+    <tag k="name:en" v="Admiral Sportsbar"/>
+    <tag k="note" v="Admiral Sportsbar"/>
+    <tag k="operator" v="Admiral"/>
+  </node>
+  <node id="4342955232" lat="48.2061931" lon="16.3945636">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Tube Station"/>
+    <tag k="opening_hours" v="18:00-01:00"/>
+    <tag k="phone" v="+43 660 6182000"/>
+    <tag k="website" v="http://www.thetubestation.at"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4348217489" lat="48.2147108" lon="16.3697713">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Werdertorgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Office"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="website" v="http://www.theoffice.at"/>
+  </node>
+  <node id="4382582793" lat="48.2021400" lon="16.3675457">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Operngasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Bier &amp; Bierli"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-00:00"/>
+  </node>
+  <node id="4396476852" lat="48.2317510" lon="16.4542690">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="level" v="-1"/>
+    <tag k="name" v="Kesselbar"/>
+    <tag k="operator" v="Metastadt"/>
+    <tag k="website" v="https://www.metastadt.at/"/>
+  </node>
+  <node id="4409872291" lat="48.2451026" lon="16.4404144">
+    <tag k="amenity" v="bar"/>
+    <tag k="fixme" v="name"/>
+  </node>
+  <node id="4448076688" lat="48.1208084" lon="16.2643634">
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.holzwurm-pdorf.at"/>
+    <tag k="name" v="Holzwurm"/>
+    <tag k="opening_hours" v="Tu-Sa 19:00+"/>
+  </node>
+  <node id="4520460041" lat="48.2089241" lon="16.3807586">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Biberstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Sofie's Bar"/>
+    <tag k="opening_hours" v="Tu-Th 17:00 - 01:00; Fr-Sa 20:00 - 04:00"/>
+    <tag k="operator" v="Veranstaltungs-Werkstatt G.m.b.H."/>
+  </node>
+  <node id="4551006234" lat="48.2063708" lon="16.3546782">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1-3"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Lerchenfelder Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:phone" v="+43 1 52151 842"/>
+    <tag k="level" v="8"/>
+    <tag k="name" v="Der Dachboden im 25hours Hotel beim MuseumsQuartier"/>
+    <tag k="opening_hours" v="Mo-Su 15:00-01:00"/>
+    <tag k="operator" v="25hours Hotel"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://www.25hours-hotels.com/restaurants-bars/wien/dachboden"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4557268307" lat="48.2182231" lon="16.3925536">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Hendricks Sportsbar"/>
+    <tag k="opening_hours" v="Mo-Su,PH 10:00-00:00"/>
+    <tag k="website" v="https://www.hendricks.at/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4561779473" lat="48.2095315" lon="16.3750381">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Bäckerstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Weinorgel"/>
+    <tag k="opening_hours" v="Mo-Th 16:00-02:00, Fr-Sa 16:00-03:00, Su 16:00-24:00"/>
+    <tag k="phone" v="+43 1 5131227"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="website" v="https://www.weinorgel.at/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4568409920" lat="48.2012957" lon="16.3522603">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Kirchengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Die Dondrine"/>
+    <tag k="opening_hours" v="Mo-Sa 18:00-04:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="website" v="http://www.diedondrine.at/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4580075563" lat="48.2130711" lon="16.3430597">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Feivel's"/>
+    <tag k="opening_hours" v="Mo-Sa 18:00-02:00"/>
+    <tag k="website" v="http://www.feivels.at"/>
+  </node>
+  <node id="4602682592" lat="48.2147257" lon="16.3713603">
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.iltoro.at"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Il Toro"/>
+    <tag k="opening_hours" v="Mo-We 11:00-24:00; Th-Fr 11:00+; Sa 18:00+ || Sa-Su &quot;Auf Anfrage&quot;"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4614431074" lat="48.2145044" lon="16.3386793">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="1170"/>
+    <tag k="addr:street" v="Veronikagasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="designation" v="art club"/>
+    <tag k="name" v="Vronihof"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="4630791640" lat="48.2134055" lon="16.3364574">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Brunnenmarkt Stand"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Wirr am Brunnenmarkt"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-23:00"/>
+    <tag k="operator" v="WIRR GmbH"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+43 1 4023098"/>
+    <tag k="website" v="http://wirr.at"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4674432261" lat="48.2555669" lon="16.3421319">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1190"/>
+    <tag k="addr:street" v="Himmelstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="office@axelrot.at"/>
+    <tag k="name" v="Buddy Red"/>
+    <tag k="opening_hours" v="Mo-Fr 18:30+; Sa,Su,PH off"/>
+    <tag k="phone" v="+43 664 3203243"/>
+  </node>
+  <node id="4690203789" lat="48.2275994" lon="16.3617738">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Nordbergstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Grind"/>
+    <tag k="name:de" v="Grind"/>
+    <tag k="name:en" v="Grind"/>
+    <tag k="website" v="http://www.grind.at"/>
+  </node>
+  <node id="4710825003" lat="48.1969610" lon="16.3517739">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Blümelgasse"/>
+    <tag k="alt_name" v="Eagle"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="audience" v="gay"/>
+    <tag k="gay" v="yes"/>
+    <tag k="name" v="Eagle Bar"/>
+    <tag k="name:de" v="Eagle Bar"/>
+    <tag k="opening_hours" v="Mo-Su 21:00-04:00"/>
+    <tag k="phone" v="+43 (0)1 587 26 61"/>
+    <tag k="website" v="https://www.eagle-vienna.com/"/>
+  </node>
+  <node id="4730218391" lat="48.2477953" lon="16.4411915">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="addr:street" v="Wagramer Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Kagraner Kistl"/>
+    <tag k="name:de" v="Kagraner Kistl"/>
+  </node>
+  <node id="4739517170" lat="48.2360663" lon="16.3494061">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="1190"/>
+    <tag k="addr:street" v="Billrothstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.slubar.at"/>
+    <tag k="name" v="SLU-Bar"/>
+    <tag k="old_name" v="Misfits"/>
+    <tag k="opening_hours" v="Mo-Sa 18:00-24:00+"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4754572221" lat="48.1997809" lon="16.3506961">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Zollergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ganz Wien"/>
+    <tag k="opening_hours" v="Mo-Th 16:00-24:00; Fr-Su 12:00-02:00"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4836398848" lat="48.2082223" lon="16.3788961">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Postgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Azul Bar"/>
+    <tag k="opening_hours" v="18:00-04:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="+43 676 3571311"/>
+    <tag k="smoking" v="no"/>
+    <tag k="website" v="https://www.facebook.com/azulbarwien"/>
+  </node>
+  <node id="4858599399" lat="48.2134031" lon="16.3671271">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Stresssbar"/>
+    <tag k="note" v="Really 3 s-es!"/>
+    <tag k="opening_hours" v="Mo-Sa 12:00-00:00"/>
+  </node>
+  <node id="4874643715" lat="48.2108759" lon="16.3390894">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="39-40"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Stadtbahnbogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Kramladen"/>
+    <tag k="opening_hours" v="Mo, Tu 20:00-04:00; We-Sa 20:00-06:00"/>
+    <tag k="phone" v="+43 699 12185177"/>
+    <tag k="website" v="https://www.facebook.com/kramladen.wien/"/>
+  </node>
+  <node id="4901603318" lat="48.2171211" lon="16.3992044">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Calafattiplatz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Bar"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="yes"/>
+  </node>
+  <node id="4959779021" lat="48.1976529" lon="16.3567871">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Joanelligasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Einhorn"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-04:00"/>
+    <tag k="phone" v="+43 1 5863212"/>
+  </node>
+  <node id="5009473111" lat="48.1877455" lon="16.3714901">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Kolschitzkygasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tuk Tuk"/>
+    <tag k="opening_hours" v="Mo-Su 18:00-06:00"/>
+    <tag k="phone" v="+43 681 20614968"/>
+    <tag k="website" v="http://www.tuktukbar.com"/>
+  </node>
+  <node id="5026447764" lat="48.1877158" lon="16.3524177">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Margaretenstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Capoeira Bar"/>
+    <tag k="opening_hours" v="11:00-04:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="+43 676 6527272"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5027950923" lat="48.2133466" lon="16.3635547">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Schottenbastei"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Monte Ofelio Bar"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-22:00"/>
+    <tag k="website" v="https://monteofeliobar.com/monte-ofelio-schottenbastei/"/>
+  </node>
+  <node id="5082229329" lat="48.2090347" lon="16.3387648">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="22-23"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Stadtbahnbogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Fania Live"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="isolated"/>
+    <tag k="website" v="https://www.fanialive.at"/>
+  </node>
+  <node id="5102542622" lat="48.2097156" lon="16.3683207">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Graben"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="drink:wine" v="yes"/>
+    <tag k="name" v="Meinl's Wine Bar"/>
+    <tag k="shop" v="alcohol"/>
+    <tag k="website" v="https://www.meinlamgraben.at/Gastronomie/Meinls-Weinbar"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5154256720" lat="48.2040904" lon="16.3744944">
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.mundart.wien"/>
+    <tag k="name" v="Mundart"/>
+    <tag k="opening_hours" v="Tu-Th 16:00-02:00, Fr-Sa 16:00-04:00"/>
+  </node>
+  <node id="5156192591" lat="48.2535967" lon="16.3537061">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:postcode" v="1190"/>
+    <tag k="addr:street" v="Grinzinger Straße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date:opening_hours" v="2021-10-10"/>
+    <tag k="description" v="Loungebar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Aristo Bar"/>
+    <tag k="opening_hours" v="Mo-Sa 21:00-04:00"/>
+    <tag k="operator" v="Rucki"/>
+    <tag k="outdoor_seating" v="no"/>
+  </node>
+  <node id="5162810464" lat="48.2355246" lon="16.3488892">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="1190"/>
+    <tag k="addr:street" v="Gymnasiumstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Mozart &amp; Meisl"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="5165633070" lat="48.2403501" lon="16.3490147">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="1190"/>
+    <tag k="addr:street" v="Billrothstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:phone" v="+43 664 99858920"/>
+    <tag k="email" v="karin@les-gourmandises.at"/>
+    <tag k="name" v="les gourmandises Garden &amp; Bar"/>
+    <tag k="old_facebook" v="https://www.facebook.com/Schwarzer-Rabe-503645129710569/"/>
+    <tag k="old_name" v="im Leo, Schwarzer Rabe"/>
+    <tag k="old_operator" v="Michi"/>
+    <tag k="opening_hours" v="Mo-Sa 16:00-24:00; Su,PH off"/>
+    <tag k="operator" v="Les Gourmandises Gastro-Betriebs GmbH"/>
+    <tag k="website" v="https://les-gourmandises.at/garden-and-bar/"/>
+  </node>
+  <node id="5166420467" lat="48.1859492" lon="16.3724252">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Wiedner Gürtel"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Singletreff"/>
+  </node>
+  <node id="5167185959" lat="48.2044366" lon="16.3390246">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Burggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cafe Burg"/>
+  </node>
+  <node id="5167185960" lat="48.2041649" lon="16.3392848">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Burggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-10-01"/>
+    <tag k="name" v="Cafe Paris"/>
+    <tag k="opening_hours" v="07:00-02:00"/>
+  </node>
+  <node id="5224769335" lat="48.2127604" lon="16.3696002">
+    <tag k="amenity" v="bar"/>
+    <tag k="brothel" v="yes"/>
+    <tag k="name" v="City Studio"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-22:00; Sa,Su,PH 12:00-20:00"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5235996506" lat="48.2182281" lon="16.3875000">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="38a"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Novaragasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="min_age" v="18"/>
+    <tag k="name" v="Kerstin"/>
+    <tag k="opening_hours" v="Mo-Sa 13:00+; Su 20:00+"/>
+    <tag k="phone" v="+43 1 219662"/>
+    <tag k="website" v="http://kerstinbar.wixsite.com/kerstin/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5236410577" lat="48.2308523" lon="16.3513328">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="U-Bahn-Bogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/shishita.club/"/>
+    <tag k="contact:website" v="http://www.shishita.at"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="ShiShita"/>
+    <tag k="opening_hours" v="Su-Th 14:00-02:00; Fr,Sa 14:00-04:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="dedicated"/>
+  </node>
+  <node id="5275245297" lat="48.2154660" lon="16.3736426">
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="hallo@feuerdorf.at"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/feuerdorf"/>
+    <tag k="contact:phone" v="+43 1 934 6730"/>
+    <tag k="contact:website" v="http://www.feuerdorf.at"/>
+    <tag k="name" v="Feuerdorf Salettl"/>
+    <tag k="opening_hours" v="Mo-Su 11:30-00:00"/>
+    <tag k="operator" v="Feuerdorf, Hannes Strobl"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5292422764" lat="48.2155552" lon="16.3764453">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Hollandstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="hallo@basz-bar.at"/>
+    <tag k="level" v="0;-1"/>
+    <tag k="name" v="Basz Bar"/>
+    <tag k="opening_hours" v="Mo-Sa 17:00-02:00"/>
+    <tag k="operator" v="Peter Basziszta"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+43 676 4283678"/>
+    <tag k="website" v="http://www.basz-bar.at/"/>
+  </node>
+  <node id="5299907418" lat="48.2099526" lon="16.3778391">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Drakon"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5316213640" lat="48.1989436" lon="16.3147674">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Vitaminbar"/>
+  </node>
+  <node id="5332175424" lat="48.2023032" lon="16.3448585">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="tapas"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Rinkhy Delikatessin Bar"/>
+    <tag k="name:de" v="Rinkhy Delikatessin Bar"/>
+    <tag k="name:en" v="Rinkhy Delikatessin Bar"/>
+    <tag k="opening_hours" v="Mo-Sa 17:30-24:00"/>
+    <tag k="phone" v="+43 650 7399269"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5333063962" lat="48.2191366" lon="16.3875640">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Heinestraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="bar" v="contact_bar"/>
+    <tag k="min_age" v="18"/>
+    <tag k="name" v="Ellys"/>
+  </node>
+  <node id="5333480182" lat="48.2143945" lon="16.3368021">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Brunnengasse"/>
+    <tag k="amenity" v="bar"/>
+  </node>
+  <node id="5333480183" lat="48.2113600" lon="16.3384279">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="55A"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Lerchenfelder Gürtel"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="min_age" v="18"/>
+    <tag k="name" v="Velvet Palace"/>
+  </node>
+  <node id="5338335021" lat="48.2142593" lon="16.3512119">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Lange Gasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Birdyard"/>
+    <tag k="opening_hours" v="Tu-Su 17:30-02:00"/>
+    <tag k="phone" v="+4314024624"/>
+    <tag k="website" v="http://www.thebirdyard.at"/>
+  </node>
+  <node id="5403252845" lat="48.2000295" lon="16.3193680">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="1150"/>
+    <tag k="addr:street" v="Johnstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Hashtag 15"/>
+    <tag k="opening_hours" v="Mo-Th 12:00-24:00, Fr,Sa 12:00-02:00"/>
+    <tag k="website" v="https://www.hashtag15.at/"/>
+  </node>
+  <node id="5436245482" lat="48.1818360" lon="16.4090809">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="35–43"/>
+    <tag k="addr:postcode" v="1110"/>
+    <tag k="addr:street" v="Rinnböckstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Bierpub; Snacks, Imbisse, Pfannengerichte und Pizza; Fr, Sa 21–2 Bacardi, Bourbon und Wodka € 2,–. Do, Fr 17–19 Happy Hour (Spritzer, Bier), Fr Karaoke (nur im Winter); Dartsturniere, Würfel- und Brettspiele, TV. Barbereich Raucher (ca. 30), restliches Lo"/>
+    <tag k="name" v="Remi Demi"/>
+    <tag k="opening_hours" v="Mo-Fr 14:00-02:00, Sa 17:00-02:00; PH off"/>
+    <tag k="smoking" v="yes"/>
+  </node>
+  <node id="5492379775" lat="48.2146707" lon="16.3575397">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Universitätsstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Wachauer Weinstube"/>
+  </node>
+  <node id="5506686918" lat="48.2246693" lon="16.3508400">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Lustkandlgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="shop@carlobahrer.com"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Inkognito"/>
+    <tag k="opening_hours" v="Mo-Sa 19:30-04:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="01 3196588"/>
+    <tag k="website" v="http://www.carlo-bahrer.com/inkognito.html"/>
+  </node>
+  <node id="5548620020" lat="48.1981085" lon="16.3527386">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="schadekgasse 12"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-02:00, Su 10:00-12:00"/>
+  </node>
+  <node id="5586787421" lat="48.2092696" lon="16.3713111">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Roberto American Bar"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5664809642" lat="48.1897026" lon="16.3529129">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Joker"/>
+  </node>
+  <node id="5709161124" lat="48.2165210" lon="16.3689221">
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="https://www.kempinski.com/de/wien/palais-hansen/restaurant/26-east/"/>
+    <tag k="name" v="26°East"/>
+    <tag k="opening_hours" v="Mo-Su 17:00-02:00"/>
+  </node>
+  <node id="5718550121" lat="48.2111288" lon="16.3771928">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bier Saloon"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5754639525" lat="48.2023819" lon="16.3764216">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Schubertring"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Atmosphere Rooftop Bar"/>
+    <tag k="phone" v="+43 1 31188"/>
+    <tag k="website" v="http://www.ritzcarlton.com/de/hotels/europe/vienna/dining/atmosphere-rooftop-bar"/>
+  </node>
+  <node id="5758888233" lat="48.2140566" lon="16.3314208">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Mr. Wood"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-02:00, Su 08:00-02:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5766190562" lat="48.3067358" lon="16.3992173">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="1210"/>
+    <tag k="addr:street" v="Bründelgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Buschenschank im Weingarten"/>
+    <tag k="operator" v="Familie Kaminek"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="wein.nummer5.at"/>
+  </node>
+  <node id="5812632953" lat="48.2079724" lon="16.3761592">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Schulerstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="First American Bar"/>
+    <tag k="opening_hours" v="Mo 17:00-24:00; Tu-Fr 00:00-02:00,17:00-24:00; Sa 00:00-03:00,18:00-24:00; Su 00:00-03:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+43 1 513 22 07"/>
+    <tag k="website" v="https://www.firstamericanbar.at/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5857267100" lat="48.1969146" lon="16.3490709">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="info@barflys.at"/>
+    <tag k="name" v="Barfly's"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="phone" v="+43 1 5860825"/>
+    <tag k="website" v="https://barflys.at"/>
+  </node>
+  <node id="5901290639" lat="48.2038459" lon="16.3713567">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="wien@stadtboden.at"/>
+    <tag k="fixme" v="opening_hours missing"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="STADTBODEN"/>
+    <tag k="operator" v="Dora Gastronomie-Beteiligung"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+43 1 512 16 37"/>
+    <tag k="website" v="http://stadtboden.at"/>
+  </node>
+  <node id="6016353378" lat="48.1970805" lon="16.3574004">
+    <tag k="amenity" v="bar"/>
+    <tag k="gay" v="yes"/>
+    <tag k="name" v="Red Carpet"/>
+  </node>
+  <node id="6017293780" lat="48.1935406" lon="16.3075865">
+    <tag k="amenity" v="bar"/>
+    <tag k="website" v="http://kontaktbazar.at"/>
+  </node>
+  <node id="6019712905" lat="48.2145438" lon="16.3532118">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Schlösselgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Achtundzwanzig"/>
+  </node>
+  <node id="6019712906" lat="48.1991902" lon="16.3510252">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Agent Oscar"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6019712908" lat="48.2045111" lon="16.3550103">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Gardegasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="check_date:opening_hours" v="2021-07-29"/>
+    <tag k="contact:instagram" v="matikibar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Matiki"/>
+    <tag k="opening_hours" v="Mo-Th 18:00-02:00, Fr-Sa 18:00-03:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+43 660 8254576"/>
+    <tag k="website" v="https://matiki.at/"/>
+  </node>
+  <node id="6019712909" lat="48.2121881" lon="16.3689959">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Färbergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Needle Vinyl Bar"/>
+  </node>
+  <node id="6019712910" lat="48.2058095" lon="16.3443252">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Die Parfümerie"/>
+  </node>
+  <node id="6019766386" lat="48.2075909" lon="16.3733019">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Singerstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Kleinod"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6030822788" lat="48.2265212" lon="16.3621710">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Joly's Bar"/>
+    <tag k="opening_hours" v="Mo-Fr 15:00-01:00, Sa,Su 17:00-24:00"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6037478909" lat="48.2105293" lon="16.3901597">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Viaduktbogen"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="bistro;international;regional"/>
+    <tag k="name" v="Harlem"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="http://www.harlem.at"/>
+  </node>
+  <node id="6039060617" lat="48.2121721" lon="16.3689284">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Färbergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Needle Vynil Bar"/>
+  </node>
+  <node id="6113889730" lat="48.2109819" lon="16.3718320">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Tuchlauben"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:phone" v="+43 664 1050 550"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Everybody’s Darling"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-22:00"/>
+    <tag k="website" v="https://everybodysdarling.at/tagesbar/"/>
+  </node>
+  <node id="6143770218" lat="48.2118168" lon="16.3734732">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="name" v="Daiquiri Shotothek"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6143770219" lat="48.2116676" lon="16.3734578">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="name" v="Josef Bar"/>
+    <tag k="website" v="https://josef-bar.at"/>
+  </node>
+  <node id="6143770221" lat="48.2115916" lon="16.3737313">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-09"/>
+    <tag k="name" v="Högl Die Bar"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="6233140116" lat="48.1869921" lon="16.3601907">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:door" v="3-4"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Zentagasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="Kozel;Marchfelder_Storchenbräu"/>
+    <tag k="email" v="office@tapete.bar"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Tapete"/>
+    <tag k="opening_hours" v="Mo-Sa 18:00-01:00"/>
+    <tag k="operator" v="Tapete Bar KG"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+4319664346"/>
+    <tag k="start_date" v="2016-03-05"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="http://www.tapete.bar/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="6241174685" lat="48.2264240" lon="16.3568476">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Freddy's Weinstuberl"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="6270516682" lat="48.1976111" lon="16.3672083">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Rilkeplatz"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="bistro"/>
+    <tag k="name" v="Porto"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6323882622" lat="48.2040430" lon="16.3746895">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Zum Bettelstudent"/>
+    <tag k="opening_hours" v="Mo-Tu 11:00-24:00;We-Th 11:00-01:00;Fr-Sa 11:00-03:00;Su 11:00-24:00"/>
+    <tag k="website" v="http://www.bettelstudent.at/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6326749205" lat="48.2039403" lon="16.3699537">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Blaue Bar"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6331569607" lat="48.2042415" lon="16.3679195">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Stadtbar"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6333239844" lat="48.2022478" lon="16.3732420">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Salims"/>
+    <tag k="website" v="http://salims.at"/>
+  </node>
+  <node id="6336080709" lat="48.2043253" lon="16.3499595">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Burggasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Lazy Life"/>
+    <tag k="opening_hours" v="Tu-Th 16:00-23:00; Fr 16:00-01:00, Sa 14:00-01:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="http://www.lazylife.at/"/>
+  </node>
+  <node id="6368867597" lat="48.1994307" lon="16.3465606">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="13.5 E Mezzo"/>
+  </node>
+  <node id="6548054298" lat="48.1980234" lon="16.3811795">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Salesianergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar3"/>
+  </node>
+  <node id="6672712833" lat="48.1954902" lon="16.2807861">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Crima"/>
+  </node>
+  <node id="6697500062" lat="48.2101189" lon="16.3716645">
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:website" v="http://www.finowien.com"/>
+    <tag k="name" v="Fino"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-01:00, Sa 09:00-01:00, Su, PH off"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6718724286" lat="48.1992088" lon="16.3710273">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Kiosk Calypso"/>
+  </node>
+  <node id="6952524398" lat="48.1790470" lon="16.3871196">
+    <tag k="addr:city" v="Vienna"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Bloch-Bauer-Promenade"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Mimi im Stadtelefant"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-15:00"/>
+    <tag k="website" v="https://www.facebook.com/mimi.im.stadtelefant/"/>
+  </node>
+  <node id="6976714163" lat="48.2093227" lon="16.3746139">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Wollzeile"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:phone" v="+43 1 512 93 50"/>
+    <tag k="name" v="Vis-a-Vis Weinbar"/>
+    <tag k="opening_hours" v="Tu-Fr 16:00-22:30; Sa 15:00-22:30"/>
+    <tag k="website" v="http://www.weibel.at/"/>
+  </node>
+  <node id="7090277291" lat="48.1938811" lon="16.3358861">
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1150"/>
+    <tag k="addr:street" v="Haidmannsgasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="chapel@mozartsvienna.com"/>
+    <tag k="name" v="The Chapel Speakeasy"/>
+    <tag k="phone" v="+43 681 81561233"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://facebook.com/thechapelbarvienna/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="7102337418" lat="48.2113986" lon="16.3734557">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Richys"/>
+  </node>
+  <node id="7194096133" lat="48.2143139" lon="16.3371461">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="RRR"/>
+    <tag k="website" v="http://rrr.social/"/>
+  </node>
+  <node id="7272328739" lat="48.2286210" lon="16.3323299">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Quattro Café-Bar"/>
+  </node>
+  <node id="7746801438" lat="48.2215107" lon="16.4015527">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Solas"/>
+    <tag k="opening_hours" v="We-Fr 15:00-22:00; Sa 09:00-22:00; Su 09:00-16:00"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="7756785898" lat="48.1958067" lon="16.3997863">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bier-Pub"/>
+  </node>
+  <node id="7814185898" lat="48.1967033" lon="16.3560033">
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Linke Wienzeile"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Schmauswaberl"/>
+    <tag k="opening_hours" v="Mo-Sa 19:00-02:00"/>
+    <tag k="outdoor_seating" v="no"/>
+  </node>
+  <node id="7861392939" lat="48.2074516" lon="16.3768069">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Riemergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="riemergasse@pannonisch.at"/>
+    <tag k="contact:phone" v="+43 664 88 345 150"/>
+    <tag k="name" v="Golser Bier &amp; Wein Bar"/>
+    <tag k="opening_hours" v="Mo-Fr 16:00-24:00"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.pannonisch.at/"/>
+  </node>
+  <node id="7861516826" lat="48.2024799" lon="16.3731037">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Mahlerstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="oper@pannonisch.at"/>
+    <tag k="contact:phone" v="+43 664 88 345 156"/>
+    <tag k="name" v="Golser Bier &amp; Wein Bar"/>
+    <tag k="opening_hours" v="Mo-Fr 16:00-24:00, Sa 18:00-02:00"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.pannonisch.at/"/>
+  </node>
+  <node id="7881159727" lat="48.2192068" lon="16.3872109">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Heinestraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Bar Montina"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="https://www.barmontina.at/"/>
+  </node>
+  <node id="7881292549" lat="48.2134514" lon="16.3827051">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Praterstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="entry until 10 p.m. Praterstraße 18; entry after 10 p.m. Aspernbrückengasse 2"/>
+    <tag k="name" v="Praterstrasse"/>
+    <tag k="website" v="https://www.praterstrasse.wien/"/>
+  </node>
+  <node id="7927336838" lat="48.2181718" lon="16.3809910">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Lounge Bar PaSSion"/>
+  </node>
+  <node id="8125082679" lat="48.2103894" lon="16.3822100">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Blended"/>
+    <tag k="opening_hours" v="Mo-Th 14:00-01:00, Fr,Sa 14:00-02:00, Su 14:00-01:00"/>
+  </node>
+  <node id="8156064462" lat="48.2135075" lon="16.3357169">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="ParaDice - Boardgame Bar"/>
+    <tag k="opening_hours" v="Tu-Fr 17:00-23:00; Sa 08:00-23:00; Su, PH off"/>
+    <tag k="opening_hours:covid19" v="closed"/>
+    <tag k="website" v="https://www.paradice-board-game-nights.at/"/>
+  </node>
+  <node id="8201863423" lat="48.2012500" lon="16.3546072">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Sofa"/>
+  </node>
+  <node id="8201883618" lat="48.2012582" lon="16.3546477">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="R&amp;"/>
+    <tag k="opening_hours" v="We-Sa 16:00-23:00"/>
+  </node>
+  <node id="8530218861" lat="48.2415179" lon="16.3778473">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Admiral Sportsbar"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-23:30"/>
+  </node>
+  <node id="8705086809" lat="48.2568483" lon="16.4498697">
+    <tag k="amenity" v="bar"/>
+    <tag k="bar" v="sportsbar"/>
+    <tag k="name" v="Admiral Sportsbar"/>
+  </node>
+  <node id="8755703066" lat="48.2261901" lon="16.5078968">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="addr:street" v="Jane-Jacobs-Steg"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:email" v="crew@tschau.at"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/tschautschauseestadt/"/>
+    <tag k="contact:website" v="https://www.tschau.at"/>
+    <tag k="name" v="Tschau Tschau Aspern"/>
+  </node>
+  <node id="8807884416" lat="48.2105490" lon="16.3691540">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Seitzergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="info@barcampari.at"/>
+    <tag k="name" v="Bar Campari"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-24:00"/>
+    <tag k="phone" v="+43 1 532 35 53"/>
+    <tag k="website" v="https://www.barcampari.at"/>
+  </node>
+  <node id="8812381966" lat="48.1851940" lon="16.3833508">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Arsenalstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="scandinavian"/>
+    <tag k="email" v="aurora@andaz.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Aurora Rooftop Bar"/>
+    <tag k="opening_hours" v="Mo-Th, So 16:00-23:00; Fr-Sa 16:00-24:00"/>
+    <tag k="phone" v="+431205 77 44 4466"/>
+    <tag k="website" v="www.bar-aurora.at"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8897871352" lat="48.2008898" lon="16.3590432">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Michele"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:00; Sa 09:00-18:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="8904745802" lat="48.2134888" lon="16.3675931">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cafe Midi"/>
+  </node>
+  <node id="8936683619" lat="48.2102431" lon="16.3741226">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Rotenturmstraße"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="level" v="9"/>
+    <tag k="name" v="Rooftopbar Lamee"/>
+  </node>
+  <node id="9080885178" lat="48.1382241" lon="16.3970831">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Your PINS"/>
+  </node>
+  <node id="9084724253" lat="48.1979520" lon="16.3325565">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Cafe Tropic"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-02:00, Su 10:00-02:00"/>
+    <tag k="outdoor_seating" v="parklet"/>
+  </node>
+  <node id="9084736853" lat="48.1940947" lon="16.3444408">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Weinstube"/>
+  </node>
+  <node id="9091434386" lat="48.2094939" lon="16.3307975">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cafe Talisman"/>
+  </node>
+  <node id="9111331517" lat="48.2021165" lon="16.3618745">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="artwork"/>
+    <tag k="survey:date" v="2021-09-21"/>
+  </node>
+  <node id="9144519691" lat="48.2103086" lon="16.3390046">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="34-35"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Lerchenfelder Gürtel"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Coco"/>
+    <tag k="opening_hours" v="Mo-Do 18:00-02:00; Fr 18:00-06:00; Sa 20:00-06:00"/>
+    <tag k="website" v="http://www.coco-bar.at/"/>
+  </node>
+  <node id="9229906593" lat="48.2082111" lon="16.2189069">
+    <tag k="amenity" v="bar"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="o'mellis"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:00; Sa 09:00-18:00"/>
+  </node>
+  <node id="9256276194" lat="48.1678948" lon="16.2839942">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cafe Speising"/>
+  </node>
+  <node id="9493756635" lat="48.2143592" lon="16.3341028">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Hill"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="9493777870" lat="48.2145039" lon="16.3330099">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Café Code"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="9493787991" lat="48.2111761" lon="16.3515206">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Miles Smile Jazz Bar"/>
+  </node>
+  <node id="9510642145" lat="48.2125181" lon="16.3389086">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Papillon2"/>
+  </node>
+  <node id="9510650147" lat="48.2233504" lon="16.3204375">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Habed'ere"/>
+  </node>
+  <node id="9510661826" lat="48.2069220" lon="16.3380556">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="De Luxe"/>
+  </node>
+  <node id="9524794134" lat="48.2058290" lon="16.3298329">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ogi's Bar"/>
+  </node>
+  <node id="9524794136" lat="48.2061668" lon="16.3275773">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Choco's Corner"/>
+  </node>
+  <node id="9545298769" lat="48.2165358" lon="16.3624655">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Uni Alm"/>
+  </node>
+  <node id="9590452143" lat="48.2094493" lon="16.3771125">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Schönlaterngasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cocktails" v="yes"/>
+    <tag k="email" v="drink@truthanddare.bar"/>
+    <tag k="name" v="Truth and Dare"/>
+    <tag k="opening_hours" v="Tu-Sa 18:00-02:00; Su 18:00-01:00"/>
+    <tag k="website" v="https://www.truthanddare.bar"/>
+  </node>
+  <node id="9645094517" lat="48.2238142" lon="16.3154469">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Gerüchteküche"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="9686943317" lat="48.2105281" lon="16.3691294">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Seitzergasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Benvenuti al Bar Campar"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-00:00"/>
+  </node>
+  <node id="9707708496" lat="48.2059470" lon="16.3985242">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Die Weinbar"/>
+  </node>
+  <node id="9744161119" lat="48.2098969" lon="16.3657494">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Kulturlounge"/>
+  </node>
+  <node id="9829302024" lat="48.2656972" lon="16.3313196">
+    <tag k="amenity" v="bar"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="9854186197" lat="48.2150064" lon="16.3750364">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="taste!"/>
+  </node>
+  <node id="9869038996" lat="48.2299695" lon="16.3547338">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="K.52"/>
+  </node>
+  <node id="9874804665" lat="48.2196356" lon="16.4015305">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Safari Club"/>
+  </node>
+  <node id="9874823247" lat="48.1980833" lon="16.3548402">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Lusier"/>
+  </node>
+  <node id="9874836324" lat="48.2196177" lon="16.4043778">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bei Gabi"/>
+  </node>
+  <node id="9889398965" lat="48.1969910" lon="16.2843885">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="APH"/>
+  </node>
+  <node id="9897844675" lat="48.1926910" lon="16.3389825">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="La more vienna"/>
+  </node>
+  <node id="9897912331" lat="48.1926367" lon="16.3391072">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Zeymeo Can"/>
+  </node>
+  <node id="9961183000" lat="48.2189247" lon="16.3993071">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Community"/>
+  </node>
+  <node id="10013513705" lat="48.1743965" lon="16.3293883">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-16"/>
+    <tag k="fixme" v="is a &quot;beisl&quot;. opening hours should be visible on the door but didn't catch them"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="M &amp; H"/>
+    <tag k="outdoor_seating" v="no"/>
+  </node>
+  <node id="10013636662" lat="48.1870734" lon="16.3761667">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-09-10"/>
+    <tag k="name" v="Piccolo Bar"/>
+  </node>
+  <node id="10013675392" lat="48.1633402" lon="16.3824191">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Katharinengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="tequila"/>
+    <tag k="name" v="Bermuda WG"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="10030965068" lat="48.2006091" lon="16.3594028">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Pfauengasse"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Drogerie"/>
+    <tag k="opening_hours" v="Mo-Fr 17:00+, Sa 11:00+, Su off"/>
+  </node>
+
+</osm>
